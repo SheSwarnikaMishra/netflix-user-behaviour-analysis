@@ -39,11 +39,7 @@ This project analyzes behavioral trends from a Netflix user dataset, focusing on
 
 ---
 
-## 🖼️ Preview
 
-![Notebook Preview](notebook_preview.png)
-
----
 
 ## 🔮 Future Enhancements
 
